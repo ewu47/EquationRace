@@ -1,6 +1,6 @@
 # The Equation Race
 
-This is an exciting educational game built with Pygame that challenges your mental math  with equations on the move. Dodge falling blocks and select the right answers – simple as that. There is a time limit of 60 seconds, try to get the highest score possible!
+Built with Pygame that challenges your mental math with equations on the move. Dodge the falling blocks and select the right answers – simple as that. There is a time limit of 60 seconds, try to get the highest score possible!
 
 ## Installation
 1. **Clone the Repository:**
